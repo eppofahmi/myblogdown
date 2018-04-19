@@ -28,7 +28,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Salam kenal, nama saya Ujang Fahmi. Saat ini saya sedang menempuh pendidikan pada Master Manajemen dan Kebijakan Publik, Universitas Gadjah. Minat penelitian utama saya adalah pemanfaatan media sosial untuk menunjang proses pembuatan kebijakan yang lebih transparan. Untuk itu, saat ini saya juga belajar pengelolaan data dari media sosial, khususnya twitter dengan menggunakan bahasa pemerograman komputer seperti Python dan R. Saya percaya, bahwa dengan teknik yang tepat, selain banyak dimanfaatkan untuk perang twit, media sosial seperti Twitter dapat menjadi tilikan yang bermanfaat dalam penentuan agenda kebijakan dan untuk lebih memahami masyarakat secara cepat dan tepat.</description>
+      <description>Biography Currently, social media is an inseparable part of people&amp;rsquo;s lives, particularly those living in urban areas. On the one hand, several negative issues follow social media view, such as hoaxes and hate speech. But on the other hand, social media can also be a point where we can identify an authentic public opinion, a media to organise movements, and so forth. It is for me, as a master student of management and public policy interested in research that utilises data from social media.</description>
     </item>
     
     <item>
@@ -103,6 +103,15 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
