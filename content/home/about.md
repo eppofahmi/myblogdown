@@ -26,6 +26,10 @@ weight = 5
   institution = "Universitas Muhammadiyah Yogyakarta"
   year = 2014
  
+[[education.courses]]
+  course = "SIP in International Relation"
+  institution = "Universitas Muhammadiyah Yogyakarta"
+  year = 2014 
 +++
 
 # Biography
