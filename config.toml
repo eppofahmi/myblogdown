@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Ujang Fahmi"
@@ -234,8 +234,8 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/eppofahmi"
     
-    [[params.social]]
-    icon = "orcid"
+  [[params.social]]
+    icon = "researchgate"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0002-1205-9048"
 
@@ -273,9 +273,14 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
