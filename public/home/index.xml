@@ -13,13 +13,12 @@
     
     
     <item>
-      <title>Academic</title>
+      <title>belajaR</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0700</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>Sebuah catatan belajar seorang pelajar yang mencoba untuk berbagai sedikit ilmu pengetahuan demi kebaikan: Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>Sebuah tempat belajar dan menyimpan catatan hasil belajar tentang kebijakan publik dan bahasa R 🚀</description>
     </item>
     
     <item>
@@ -28,7 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Currently, social media is an inseparable part of people&amp;rsquo;s lives, particularly those living in urban areas. On the one hand, several negative issues follow social media view, such as hoaxes and hate speech. But on the other hand, social media can also be a point where we can identify an authentic public opinion, a media to organise movements, and so forth. It is for me, as a master student of management and public policy interested in research that utilises data from social media.</description>
+      <description>Biography Currently, social media is an inseparable part of people’s lives, particularly those living in urban areas. On the one hand, several negative issues follow social media view, such as hoaxes and hate speech. But on the other hand, social media can also be a point where we can identify an authentic public opinion, a media to organise movements, and so forth.
+It is for me, as a master student of management and public policy interested in research that utilises data from social media.</description>
     </item>
     
     <item>
@@ -77,14 +77,13 @@
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>Workshop</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>I am a teaching instructor for the following courses at Sagasitas Journal and Reserach Center:
+ CS101: An intro to R programming language CS102: An intro to Data mining CS103: An intro to Text mining CS104: An intro to Information retrieval CS105: An intro to Social Reserah  </description>
     </item>
     
     <item>
@@ -103,15 +102,6 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/home/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
